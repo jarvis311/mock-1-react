@@ -1,0 +1,22 @@
+.card-main{
+    margin-top: 10px;
+    gap: 20px;
+    width: 100%;
+}
+
+.card{
+    width: 20vw;
+}
+.card-body{
+    word-wrap: break-word;
+}
+.card-title{
+    margin-bottom: 20px;
+}
+.card-text{
+    font-size: 12px;
+}
+.heading{
+    font-size: 14px;
+    font-weight: bold;
+}
